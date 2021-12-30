@@ -8,14 +8,21 @@ namespace ExemploPOO
         static void Main(string[] args)
         {
 
-            Professor p1 = new Professor();
-            p1.Salario = 2000;
+            Aluno p1 = new Aluno();
+            p1.Nota = 10;
             p1.Documento = "123456";
             p1.Nome = "Bob";
             p1.Idade = 20;
             p1.Apresentar();
             Console.WriteLine();
 
+            Professor p2 = new Professor();
+            p2.Salario = 2000;
+            p2.Documento = "123456";
+            p2.Nome = "David";
+            p2.Idade = 35;
+            p2.Apresentar();
+            Console.WriteLine();
 
         
 
