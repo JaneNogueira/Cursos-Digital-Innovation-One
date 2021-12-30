@@ -8,21 +8,26 @@ namespace ExemploPOO
         static void Main(string[] args)
         {
 
-            Aluno p1 = new Aluno();
-            p1.Nota = 10;
-            p1.Documento = "123456";
-            p1.Nome = "Bob";
-            p1.Idade = 20;
-            p1.Apresentar();
-            Console.WriteLine();
+            Calculadora calc = new Calculadora();
+            System.Console.WriteLine("Resultado da primeira soma: " + calc.Somar(10, 10));
+            System.Console.WriteLine("Resultado da segunda soma: " + calc.Somar(10, 10, 10));
 
-            Professor p2 = new Professor();
-            p2.Salario = 2000;
-            p2.Documento = "123456";
-            p2.Nome = "David";
-            p2.Idade = 35;
-            p2.Apresentar();
-            Console.WriteLine();
+
+            // Aluno p1 = new Aluno();
+            // p1.Nota = 10;
+            // p1.Documento = "123456";
+            // p1.Nome = "Bob";
+            // p1.Idade = 20;
+            // p1.Apresentar();
+            // Console.WriteLine();
+
+            // Professor p2 = new Professor();
+            // p2.Salario = 2000;
+            // p2.Documento = "123456";
+            // p2.Nome = "David";
+            // p2.Idade = 35;
+            // p2.Apresentar();
+            // Console.WriteLine();
 
         
 
