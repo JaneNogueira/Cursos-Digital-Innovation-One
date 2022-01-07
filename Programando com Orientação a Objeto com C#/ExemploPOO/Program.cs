@@ -7,10 +7,13 @@ namespace ExemploPOO
     {
         static void Main(string[] args)
         {
-            Corrente c = new Corrente();
-            c.Creditar(100);
 
-            c.ExibirSaldo();
+            Computador comp = new Computador();
+            System.Console.WriteLine(comp.ToString());
+            // Corrente c = new Corrente();
+            // c.Creditar(100);
+
+            // c.ExibirSaldo();
 
             // Calculadora calc = new Calculadora();
             // System.Console.WriteLine("Resultado da primeira soma: " + calc.Somar(10, 10));

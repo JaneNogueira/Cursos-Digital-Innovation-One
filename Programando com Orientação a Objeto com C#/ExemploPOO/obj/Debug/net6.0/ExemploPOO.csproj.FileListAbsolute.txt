@@ -13,3 +13,18 @@ C:\Users\isaac\Documents\Cursos-Digital-Innovation-One\Programando com Orientaç
 C:\Users\isaac\Documents\Cursos-Digital-Innovation-One\Programando com Orientação a Objeto com C#\ExemploPOO\obj\Debug\net6.0\ref\ExemploPOO.dll
 C:\Users\isaac\Documents\Cursos-Digital-Innovation-One\Programando com Orientação a Objeto com C#\ExemploPOO\obj\Debug\net6.0\ExemploPOO.pdb
 C:\Users\isaac\Documents\Cursos-Digital-Innovation-One\Programando com Orientação a Objeto com C#\ExemploPOO\obj\Debug\net6.0\ExemploPOO.genruntimeconfig.cache
+E:\Projetos GitHub\Cursos-Digital-Innovation-One\Programando com Orientação a Objeto com C#\ExemploPOO\bin\Debug\net6.0\ExemploPOO.exe
+E:\Projetos GitHub\Cursos-Digital-Innovation-One\Programando com Orientação a Objeto com C#\ExemploPOO\bin\Debug\net6.0\ExemploPOO.deps.json
+E:\Projetos GitHub\Cursos-Digital-Innovation-One\Programando com Orientação a Objeto com C#\ExemploPOO\bin\Debug\net6.0\ExemploPOO.runtimeconfig.json
+E:\Projetos GitHub\Cursos-Digital-Innovation-One\Programando com Orientação a Objeto com C#\ExemploPOO\bin\Debug\net6.0\ExemploPOO.dll
+E:\Projetos GitHub\Cursos-Digital-Innovation-One\Programando com Orientação a Objeto com C#\ExemploPOO\bin\Debug\net6.0\ref\ExemploPOO.dll
+E:\Projetos GitHub\Cursos-Digital-Innovation-One\Programando com Orientação a Objeto com C#\ExemploPOO\bin\Debug\net6.0\ExemploPOO.pdb
+E:\Projetos GitHub\Cursos-Digital-Innovation-One\Programando com Orientação a Objeto com C#\ExemploPOO\obj\Debug\net6.0\ExemploPOO.csproj.AssemblyReference.cache
+E:\Projetos GitHub\Cursos-Digital-Innovation-One\Programando com Orientação a Objeto com C#\ExemploPOO\obj\Debug\net6.0\ExemploPOO.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projetos GitHub\Cursos-Digital-Innovation-One\Programando com Orientação a Objeto com C#\ExemploPOO\obj\Debug\net6.0\ExemploPOO.AssemblyInfoInputs.cache
+E:\Projetos GitHub\Cursos-Digital-Innovation-One\Programando com Orientação a Objeto com C#\ExemploPOO\obj\Debug\net6.0\ExemploPOO.AssemblyInfo.cs
+E:\Projetos GitHub\Cursos-Digital-Innovation-One\Programando com Orientação a Objeto com C#\ExemploPOO\obj\Debug\net6.0\ExemploPOO.csproj.CoreCompileInputs.cache
+E:\Projetos GitHub\Cursos-Digital-Innovation-One\Programando com Orientação a Objeto com C#\ExemploPOO\obj\Debug\net6.0\ExemploPOO.dll
+E:\Projetos GitHub\Cursos-Digital-Innovation-One\Programando com Orientação a Objeto com C#\ExemploPOO\obj\Debug\net6.0\ref\ExemploPOO.dll
+E:\Projetos GitHub\Cursos-Digital-Innovation-One\Programando com Orientação a Objeto com C#\ExemploPOO\obj\Debug\net6.0\ExemploPOO.pdb
+E:\Projetos GitHub\Cursos-Digital-Innovation-One\Programando com Orientação a Objeto com C#\ExemploPOO\obj\Debug\net6.0\ExemploPOO.genruntimeconfig.cache
