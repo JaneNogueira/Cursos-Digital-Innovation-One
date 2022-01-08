@@ -1,4 +1,5 @@
 ﻿using System;
+using ExemploPOO.Helper;
 using ExemploPOO.Interfaces;
 using ExemploPOO.Models;
 
@@ -8,8 +9,13 @@ namespace ExemploPOO
     {
         static void Main(string[] args)
         {
-            ICalculadora calc = new Calculadora();
-            System.Console.WriteLine(calc.Somar(10, 20));
+            var caminho = "E:\Projetos GitHub\TrabalhandoComArquivos";
+
+            FileHelper helper = new FileHelper();
+            helper.ListarDiretorios(caminho);
+            
+            // ICalculadora calc = new Calculadora();
+            // System.Console.WriteLine(calc.Somar(10, 20));
             
 
             // Computador comp = new Computador();
