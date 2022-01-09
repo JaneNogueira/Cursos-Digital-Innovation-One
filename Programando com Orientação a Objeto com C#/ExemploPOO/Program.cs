@@ -1,4 +1,5 @@
 ﻿using System;
+using System.IO;
 using ExemploPOO.Helper;
 using ExemploPOO.Interfaces;
 using ExemploPOO.Models;
@@ -9,11 +10,29 @@ namespace ExemploPOO
     {
         static void Main(string[] args)
         {
-            var caminho = "E:\Projetos GitHub\TrabalhandoComArquivos";
+            var caminho = "E:\\Projetos GitHub\\TrabalhandoComArquivos";
+            var caminhoPathCombine = Path.Combine(caminho, "Pasta teste 1");
+            var caminhoArquivo = Path.Combine(caminho, "arquivo-teste-stream.txt");
+            var novoCaminhoArquivo = Path.Combine(caminho, "Pasta Teste 2", "arquivo-teste-stream.txt");
+            var novoCaminhoArquivoTeste = Path.Combine(caminho,"arquivo-teste.txt");
+            var novoCaminhoArquivoTesteCopia = Path.Combine(caminho,"arquivo-teste-bkp.txt");
+
+            var listaString = new List<String> { "Linha 1", "Linha 2", "Linha 3" };
+            var listaStringContinuacao = new List<String> { "Linha 4", "Linha 5", "Linha 6" };
 
             FileHelper helper = new FileHelper();
-            helper.ListarDiretorios(caminho);
-            
+            //helper.ListarArquivosDiretorios(caminho);
+            // helper.ListarDiretorios(caminho);
+            //System.Console.WriteLine("Criando diretório:" + caminhoPathCombine);
+            //helper.CriarDiretorio(caminhoPathCombine);
+            //helper.ApagarDiretorio(caminhoPathCombine, true);
+            //helper.CriarArquivoTexto(caminhoArquivo, "Olá! Teste de escrita de arquivo");
+            //helper.CriarArquivoTextoStream(caminhoArquivo, listaString);
+            //helper.AdicionarArquivoTextoStream(caminhoArquivo, listaStringContinuacao);
+            //helper.LerArquivoStream(caminhoArquivo);
+            //helper.MoverArquivo(caminhoArquivo, novoCaminhoArquivo, false);
+            //helper.CopiarArquivo(novoCaminhoArquivoTeste, novoCaminhoArquivoTesteCopia, false);
+            helper.DeletarArquivos(novoCaminhoArquivoTesteCopia);
             // ICalculadora calc = new Calculadora();
             // System.Console.WriteLine(calc.Somar(10, 20));
             
