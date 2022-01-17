@@ -1,0 +1,15 @@
+E:\Projetos GitHub\Cursos-Digital-Innovation-One\Fundamentos de Coleções e LINQ com .NET\Colecoes\bin\Debug\net6.0\Colecoes.exe
+E:\Projetos GitHub\Cursos-Digital-Innovation-One\Fundamentos de Coleções e LINQ com .NET\Colecoes\bin\Debug\net6.0\Colecoes.deps.json
+E:\Projetos GitHub\Cursos-Digital-Innovation-One\Fundamentos de Coleções e LINQ com .NET\Colecoes\bin\Debug\net6.0\Colecoes.runtimeconfig.json
+E:\Projetos GitHub\Cursos-Digital-Innovation-One\Fundamentos de Coleções e LINQ com .NET\Colecoes\bin\Debug\net6.0\Colecoes.dll
+E:\Projetos GitHub\Cursos-Digital-Innovation-One\Fundamentos de Coleções e LINQ com .NET\Colecoes\bin\Debug\net6.0\ref\Colecoes.dll
+E:\Projetos GitHub\Cursos-Digital-Innovation-One\Fundamentos de Coleções e LINQ com .NET\Colecoes\bin\Debug\net6.0\Colecoes.pdb
+E:\Projetos GitHub\Cursos-Digital-Innovation-One\Fundamentos de Coleções e LINQ com .NET\Colecoes\obj\Debug\net6.0\Colecoes.csproj.AssemblyReference.cache
+E:\Projetos GitHub\Cursos-Digital-Innovation-One\Fundamentos de Coleções e LINQ com .NET\Colecoes\obj\Debug\net6.0\Colecoes.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projetos GitHub\Cursos-Digital-Innovation-One\Fundamentos de Coleções e LINQ com .NET\Colecoes\obj\Debug\net6.0\Colecoes.AssemblyInfoInputs.cache
+E:\Projetos GitHub\Cursos-Digital-Innovation-One\Fundamentos de Coleções e LINQ com .NET\Colecoes\obj\Debug\net6.0\Colecoes.AssemblyInfo.cs
+E:\Projetos GitHub\Cursos-Digital-Innovation-One\Fundamentos de Coleções e LINQ com .NET\Colecoes\obj\Debug\net6.0\Colecoes.csproj.CoreCompileInputs.cache
+E:\Projetos GitHub\Cursos-Digital-Innovation-One\Fundamentos de Coleções e LINQ com .NET\Colecoes\obj\Debug\net6.0\Colecoes.dll
+E:\Projetos GitHub\Cursos-Digital-Innovation-One\Fundamentos de Coleções e LINQ com .NET\Colecoes\obj\Debug\net6.0\ref\Colecoes.dll
+E:\Projetos GitHub\Cursos-Digital-Innovation-One\Fundamentos de Coleções e LINQ com .NET\Colecoes\obj\Debug\net6.0\Colecoes.pdb
+E:\Projetos GitHub\Cursos-Digital-Innovation-One\Fundamentos de Coleções e LINQ com .NET\Colecoes\obj\Debug\net6.0\Colecoes.genruntimeconfig.cache
