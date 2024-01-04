@@ -1,0 +1,56 @@
+Este foi meu primeiro desafio de projeto no GITHUB pela DIO. Segue abaixo algumas pontuações que aprendi com esse projeto. 
+
+
+
+**Seguir o passo a passo**
+
+
+
+- Seguindo o passo a passo do professor, pude personalizar o texto no formato .md e colocar a adição dos links dentro do GITHUB.
+- Logo após, criei um repositório na máquina local só que dentro da pasta do OneDrive. 
+- Criando essa pasta já preparada para receber o projeto, cliquei botão direito em githash dentro da pasta e o console se abriu.
+- Com o console aberto, digitei o comando git clone e copiei o link do repositório que estava na nuvem para o console.
+- feito isso, o repositório foi clonado para minha máquina local. Nesse ponto a ideia era entrar dentro do diretório criado para o projeto, porém dei o comando cd e não especifiquei o diretório. 
+
+
+
+**Dificuldades técnicas encontradas**
+
+- Digitado o comando cd sem especificar o diretório, fez com que o console retornasse para o "diretório" área de trabalho, saindo assim do diretório do qual havia criado para o desafio. 
+- Digitei cd dio e não funcionou... Percebi que faltava algumas informações importantes para o terminal.
+- Digitei cd dio-desafio-github-primeiro-repositorio o nome do diretório e também não funcionou, ainda faltava algum comando do qual eu não me lembrava. 
+
+
+
+**Solução encontrada**
+
+
+
+- Recorri ao meu bloco de notas das aulas anotadas do curso Introdução ao GIT e GITHUB
+- Compreendi que TODA VEZ que preciso acessar algum diretório, primeiro eu preciso saber onde ele se encontra e copiar esse endereço 
+- Após compreendido esse local, preferi aplicar alguns conceitos dos quais já havia aprendido e utilizei os seguintes comandos:
+- cd /d - para acessar o disco local da máquina (OK)
+- ls - para listar as pastas que haviam na unidade (OK)
+- cd /d /Jane - para entrar na pasta local (OK)
+- ls - para listar as pastas contidas dentro da pasta Jane (OK)
+- cd /d /Jane /OneDrive - para acessar o diretório OneDrive (OK)
+- ls - para listar todas as pastas contidas no diretório
+- Fui seguindo esses passos até acessar a pasta que continha o projeto 
+- Quando acessei, dei um "git status" para compreender 
+- Para limpar toda a tela foi dado o comando Ctrl + L para limpar o console
+
+
+
+**Segunda Etapa do Desafio**
+
+- Após a resolução do problema e acessar com sucesso o diretório do projeto, foi adicionado novo arquivo no servidor local descrevendo o passo a passo do que aconteceu na execução do projeto. 
+- git status para verificar que o novo arquivo havia sido adicionado .md (txt)
+- git add . para adicionar o arquivo ao servidor local e prepará-lo para commit
+- git commit para preparar o envio do novo arquivo para o servidor remoto
+- git push origin main para enviar efetivamente o arquivo para o repositório do GITHUB (remoto)
+- git status para verificar se estava tudo correto e então copiar o link para enviar meu desafio. 
+- Ctrl + L para limpar o terminal 
+
+
+
+Está sendo uma experiência incrível e tenho certeza que vou aprender muito mais. 
