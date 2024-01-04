@@ -1,0 +1,15 @@
+D:\GitHub\Cursos-Digital-Innovation-One\BootCamp Avanade 2024\obj\Debug\net8.0\BootCamp Avanade 2024.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\Cursos-Digital-Innovation-One\BootCamp Avanade 2024\obj\Debug\net8.0\BootCamp Avanade 2024.AssemblyInfoInputs.cache
+D:\GitHub\Cursos-Digital-Innovation-One\BootCamp Avanade 2024\obj\Debug\net8.0\BootCamp Avanade 2024.AssemblyInfo.cs
+D:\GitHub\Cursos-Digital-Innovation-One\BootCamp Avanade 2024\obj\Debug\net8.0\BootCamp Avanade 2024.csproj.CoreCompileInputs.cache
+D:\GitHub\Cursos-Digital-Innovation-One\BootCamp Avanade 2024\obj\Debug\net8.0\BootCamp Avanade 2024.sourcelink.json
+D:\GitHub\Cursos-Digital-Innovation-One\BootCamp Avanade 2024\bin\Debug\net8.0\BootCamp Avanade 2024.exe
+D:\GitHub\Cursos-Digital-Innovation-One\BootCamp Avanade 2024\bin\Debug\net8.0\BootCamp Avanade 2024.deps.json
+D:\GitHub\Cursos-Digital-Innovation-One\BootCamp Avanade 2024\bin\Debug\net8.0\BootCamp Avanade 2024.runtimeconfig.json
+D:\GitHub\Cursos-Digital-Innovation-One\BootCamp Avanade 2024\bin\Debug\net8.0\BootCamp Avanade 2024.dll
+D:\GitHub\Cursos-Digital-Innovation-One\BootCamp Avanade 2024\bin\Debug\net8.0\BootCamp Avanade 2024.pdb
+D:\GitHub\Cursos-Digital-Innovation-One\BootCamp Avanade 2024\obj\Debug\net8.0\BootCamp Avanade 2024.dll
+D:\GitHub\Cursos-Digital-Innovation-One\BootCamp Avanade 2024\obj\Debug\net8.0\refint\BootCamp Avanade 2024.dll
+D:\GitHub\Cursos-Digital-Innovation-One\BootCamp Avanade 2024\obj\Debug\net8.0\BootCamp Avanade 2024.pdb
+D:\GitHub\Cursos-Digital-Innovation-One\BootCamp Avanade 2024\obj\Debug\net8.0\BootCamp Avanade 2024.genruntimeconfig.cache
+D:\GitHub\Cursos-Digital-Innovation-One\BootCamp Avanade 2024\obj\Debug\net8.0\ref\BootCamp Avanade 2024.dll

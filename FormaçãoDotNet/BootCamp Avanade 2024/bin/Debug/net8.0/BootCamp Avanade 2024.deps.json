@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "BootCamp Avanade 2024/1.0.0": {
+        "runtime": {
+          "BootCamp Avanade 2024.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "BootCamp Avanade 2024/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
