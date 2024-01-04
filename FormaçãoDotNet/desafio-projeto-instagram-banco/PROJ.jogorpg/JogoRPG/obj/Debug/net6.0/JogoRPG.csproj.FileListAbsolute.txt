@@ -1,0 +1,15 @@
+E:\Projetos GitHub\DesafiosDeProjeto\PROJ.jogorpg\JogoRPG\bin\Debug\net6.0\JogoRPG.exe
+E:\Projetos GitHub\DesafiosDeProjeto\PROJ.jogorpg\JogoRPG\bin\Debug\net6.0\JogoRPG.deps.json
+E:\Projetos GitHub\DesafiosDeProjeto\PROJ.jogorpg\JogoRPG\bin\Debug\net6.0\JogoRPG.runtimeconfig.json
+E:\Projetos GitHub\DesafiosDeProjeto\PROJ.jogorpg\JogoRPG\bin\Debug\net6.0\JogoRPG.dll
+E:\Projetos GitHub\DesafiosDeProjeto\PROJ.jogorpg\JogoRPG\bin\Debug\net6.0\ref\JogoRPG.dll
+E:\Projetos GitHub\DesafiosDeProjeto\PROJ.jogorpg\JogoRPG\bin\Debug\net6.0\JogoRPG.pdb
+E:\Projetos GitHub\DesafiosDeProjeto\PROJ.jogorpg\JogoRPG\obj\Debug\net6.0\JogoRPG.csproj.AssemblyReference.cache
+E:\Projetos GitHub\DesafiosDeProjeto\PROJ.jogorpg\JogoRPG\obj\Debug\net6.0\JogoRPG.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projetos GitHub\DesafiosDeProjeto\PROJ.jogorpg\JogoRPG\obj\Debug\net6.0\JogoRPG.AssemblyInfoInputs.cache
+E:\Projetos GitHub\DesafiosDeProjeto\PROJ.jogorpg\JogoRPG\obj\Debug\net6.0\JogoRPG.AssemblyInfo.cs
+E:\Projetos GitHub\DesafiosDeProjeto\PROJ.jogorpg\JogoRPG\obj\Debug\net6.0\JogoRPG.csproj.CoreCompileInputs.cache
+E:\Projetos GitHub\DesafiosDeProjeto\PROJ.jogorpg\JogoRPG\obj\Debug\net6.0\JogoRPG.dll
+E:\Projetos GitHub\DesafiosDeProjeto\PROJ.jogorpg\JogoRPG\obj\Debug\net6.0\ref\JogoRPG.dll
+E:\Projetos GitHub\DesafiosDeProjeto\PROJ.jogorpg\JogoRPG\obj\Debug\net6.0\JogoRPG.pdb
+E:\Projetos GitHub\DesafiosDeProjeto\PROJ.jogorpg\JogoRPG\obj\Debug\net6.0\JogoRPG.genruntimeconfig.cache

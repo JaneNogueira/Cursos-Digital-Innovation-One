@@ -1,0 +1,15 @@
+E:\Projetos GitHub\DesafiosDeProjeto\PROJ.Series\bin\Debug\net6.0\PROJ.Series.exe
+E:\Projetos GitHub\DesafiosDeProjeto\PROJ.Series\bin\Debug\net6.0\PROJ.Series.deps.json
+E:\Projetos GitHub\DesafiosDeProjeto\PROJ.Series\bin\Debug\net6.0\PROJ.Series.runtimeconfig.json
+E:\Projetos GitHub\DesafiosDeProjeto\PROJ.Series\bin\Debug\net6.0\PROJ.Series.dll
+E:\Projetos GitHub\DesafiosDeProjeto\PROJ.Series\bin\Debug\net6.0\ref\PROJ.Series.dll
+E:\Projetos GitHub\DesafiosDeProjeto\PROJ.Series\bin\Debug\net6.0\PROJ.Series.pdb
+E:\Projetos GitHub\DesafiosDeProjeto\PROJ.Series\obj\Debug\net6.0\PROJ.Series.csproj.AssemblyReference.cache
+E:\Projetos GitHub\DesafiosDeProjeto\PROJ.Series\obj\Debug\net6.0\PROJ.Series.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projetos GitHub\DesafiosDeProjeto\PROJ.Series\obj\Debug\net6.0\PROJ.Series.AssemblyInfoInputs.cache
+E:\Projetos GitHub\DesafiosDeProjeto\PROJ.Series\obj\Debug\net6.0\PROJ.Series.AssemblyInfo.cs
+E:\Projetos GitHub\DesafiosDeProjeto\PROJ.Series\obj\Debug\net6.0\PROJ.Series.csproj.CoreCompileInputs.cache
+E:\Projetos GitHub\DesafiosDeProjeto\PROJ.Series\obj\Debug\net6.0\PROJ.Series.dll
+E:\Projetos GitHub\DesafiosDeProjeto\PROJ.Series\obj\Debug\net6.0\ref\PROJ.Series.dll
+E:\Projetos GitHub\DesafiosDeProjeto\PROJ.Series\obj\Debug\net6.0\PROJ.Series.pdb
+E:\Projetos GitHub\DesafiosDeProjeto\PROJ.Series\obj\Debug\net6.0\PROJ.Series.genruntimeconfig.cache
