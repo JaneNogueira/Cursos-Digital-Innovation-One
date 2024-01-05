@@ -1,0 +1,5 @@
+E:\Projetos GitHub\DesafiosCsharp\DesafioCsharp\obj\Debug\net6.0\DesafioCsharp.csproj.AssemblyReference.cache
+E:\Projetos GitHub\DesafiosCsharp\DesafioCsharp\obj\Debug\net6.0\DesafioCsharp.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projetos GitHub\DesafiosCsharp\DesafioCsharp\obj\Debug\net6.0\DesafioCsharp.AssemblyInfoInputs.cache
+E:\Projetos GitHub\DesafiosCsharp\DesafioCsharp\obj\Debug\net6.0\DesafioCsharp.AssemblyInfo.cs
+E:\Projetos GitHub\DesafiosCsharp\DesafioCsharp\obj\Debug\net6.0\DesafioCsharp.csproj.CoreCompileInputs.cache
