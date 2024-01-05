@@ -1,0 +1,15 @@
+E:\Projetos GitHub\DesafiosDeCodigo\SequenciaS\SequenciaS\bin\Debug\net6.0\SequenciaS.exe
+E:\Projetos GitHub\DesafiosDeCodigo\SequenciaS\SequenciaS\bin\Debug\net6.0\SequenciaS.deps.json
+E:\Projetos GitHub\DesafiosDeCodigo\SequenciaS\SequenciaS\bin\Debug\net6.0\SequenciaS.runtimeconfig.json
+E:\Projetos GitHub\DesafiosDeCodigo\SequenciaS\SequenciaS\bin\Debug\net6.0\SequenciaS.dll
+E:\Projetos GitHub\DesafiosDeCodigo\SequenciaS\SequenciaS\bin\Debug\net6.0\ref\SequenciaS.dll
+E:\Projetos GitHub\DesafiosDeCodigo\SequenciaS\SequenciaS\bin\Debug\net6.0\SequenciaS.pdb
+E:\Projetos GitHub\DesafiosDeCodigo\SequenciaS\SequenciaS\obj\Debug\net6.0\SequenciaS.csproj.AssemblyReference.cache
+E:\Projetos GitHub\DesafiosDeCodigo\SequenciaS\SequenciaS\obj\Debug\net6.0\SequenciaS.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projetos GitHub\DesafiosDeCodigo\SequenciaS\SequenciaS\obj\Debug\net6.0\SequenciaS.AssemblyInfoInputs.cache
+E:\Projetos GitHub\DesafiosDeCodigo\SequenciaS\SequenciaS\obj\Debug\net6.0\SequenciaS.AssemblyInfo.cs
+E:\Projetos GitHub\DesafiosDeCodigo\SequenciaS\SequenciaS\obj\Debug\net6.0\SequenciaS.csproj.CoreCompileInputs.cache
+E:\Projetos GitHub\DesafiosDeCodigo\SequenciaS\SequenciaS\obj\Debug\net6.0\SequenciaS.dll
+E:\Projetos GitHub\DesafiosDeCodigo\SequenciaS\SequenciaS\obj\Debug\net6.0\ref\SequenciaS.dll
+E:\Projetos GitHub\DesafiosDeCodigo\SequenciaS\SequenciaS\obj\Debug\net6.0\SequenciaS.pdb
+E:\Projetos GitHub\DesafiosDeCodigo\SequenciaS\SequenciaS\obj\Debug\net6.0\SequenciaS.genruntimeconfig.cache
