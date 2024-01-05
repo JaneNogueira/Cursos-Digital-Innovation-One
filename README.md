@@ -10,7 +10,7 @@ Para conhecer um pouco mais sobre essa plataforma que vem mudando a vida de cent
 ## Aqui vocês encontram as listas de Bootcamps que já realizei com links direcionados à ele:
 
 [Bootcamp Avanaded - DecolaTech 2024](https://github.com/JaneNogueira/Cursos-Digital-Innovation-One/tree/main/Forma%C3%A7%C3%A3oDotNet/BootCamp%20Avanade%202024)
-
+Bootcamp Localliza WEB
 
 
 # Esse repositório está em constante atualização.
