@@ -1,0 +1,14 @@
+E:\Projetos GitHub\DesafiosDeCodigo\DesafiosDio\bin\Debug\netcoreapp3.1\DesafiosDio.exe
+E:\Projetos GitHub\DesafiosDeCodigo\DesafiosDio\bin\Debug\netcoreapp3.1\DesafiosDio.deps.json
+E:\Projetos GitHub\DesafiosDeCodigo\DesafiosDio\bin\Debug\netcoreapp3.1\DesafiosDio.runtimeconfig.json
+E:\Projetos GitHub\DesafiosDeCodigo\DesafiosDio\bin\Debug\netcoreapp3.1\DesafiosDio.runtimeconfig.dev.json
+E:\Projetos GitHub\DesafiosDeCodigo\DesafiosDio\bin\Debug\netcoreapp3.1\DesafiosDio.dll
+E:\Projetos GitHub\DesafiosDeCodigo\DesafiosDio\bin\Debug\netcoreapp3.1\DesafiosDio.pdb
+E:\Projetos GitHub\DesafiosDeCodigo\DesafiosDio\obj\Debug\netcoreapp3.1\DesafiosDio.csproj.AssemblyReference.cache
+E:\Projetos GitHub\DesafiosDeCodigo\DesafiosDio\obj\Debug\netcoreapp3.1\DesafiosDio.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projetos GitHub\DesafiosDeCodigo\DesafiosDio\obj\Debug\netcoreapp3.1\DesafiosDio.AssemblyInfoInputs.cache
+E:\Projetos GitHub\DesafiosDeCodigo\DesafiosDio\obj\Debug\netcoreapp3.1\DesafiosDio.AssemblyInfo.cs
+E:\Projetos GitHub\DesafiosDeCodigo\DesafiosDio\obj\Debug\netcoreapp3.1\DesafiosDio.csproj.CoreCompileInputs.cache
+E:\Projetos GitHub\DesafiosDeCodigo\DesafiosDio\obj\Debug\netcoreapp3.1\DesafiosDio.dll
+E:\Projetos GitHub\DesafiosDeCodigo\DesafiosDio\obj\Debug\netcoreapp3.1\DesafiosDio.pdb
+E:\Projetos GitHub\DesafiosDeCodigo\DesafiosDio\obj\Debug\netcoreapp3.1\DesafiosDio.genruntimeconfig.cache
