@@ -1,0 +1,15 @@
+E:\Projetos GitHub\DesafiosDeCodigo\Xenlongao\bin\Debug\net6.0\Xenlongao.exe
+E:\Projetos GitHub\DesafiosDeCodigo\Xenlongao\bin\Debug\net6.0\Xenlongao.deps.json
+E:\Projetos GitHub\DesafiosDeCodigo\Xenlongao\bin\Debug\net6.0\Xenlongao.runtimeconfig.json
+E:\Projetos GitHub\DesafiosDeCodigo\Xenlongao\bin\Debug\net6.0\Xenlongao.dll
+E:\Projetos GitHub\DesafiosDeCodigo\Xenlongao\bin\Debug\net6.0\ref\Xenlongao.dll
+E:\Projetos GitHub\DesafiosDeCodigo\Xenlongao\bin\Debug\net6.0\Xenlongao.pdb
+E:\Projetos GitHub\DesafiosDeCodigo\Xenlongao\obj\Debug\net6.0\Xenlongao.csproj.AssemblyReference.cache
+E:\Projetos GitHub\DesafiosDeCodigo\Xenlongao\obj\Debug\net6.0\Xenlongao.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projetos GitHub\DesafiosDeCodigo\Xenlongao\obj\Debug\net6.0\Xenlongao.AssemblyInfoInputs.cache
+E:\Projetos GitHub\DesafiosDeCodigo\Xenlongao\obj\Debug\net6.0\Xenlongao.AssemblyInfo.cs
+E:\Projetos GitHub\DesafiosDeCodigo\Xenlongao\obj\Debug\net6.0\Xenlongao.csproj.CoreCompileInputs.cache
+E:\Projetos GitHub\DesafiosDeCodigo\Xenlongao\obj\Debug\net6.0\Xenlongao.dll
+E:\Projetos GitHub\DesafiosDeCodigo\Xenlongao\obj\Debug\net6.0\ref\Xenlongao.dll
+E:\Projetos GitHub\DesafiosDeCodigo\Xenlongao\obj\Debug\net6.0\Xenlongao.pdb
+E:\Projetos GitHub\DesafiosDeCodigo\Xenlongao\obj\Debug\net6.0\Xenlongao.genruntimeconfig.cache
