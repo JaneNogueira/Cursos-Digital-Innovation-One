@@ -9,8 +9,12 @@ Para conhecer um pouco mais sobre essa plataforma que vem mudando a vida de cent
 
 ## Aqui vocês encontram as listas de Bootcamps que já realizei com links direcionados à ele:
 
-[Bootcamp Avanaded - DecolaTech 2024](https://github.com/JaneNogueira/Cursos-Digital-Innovation-One/tree/main/Forma%C3%A7%C3%A3oDotNet/BootCamp%20Avanade%202024)
-Bootcamp Localliza WEB
+[Bootcamp Avanaded - DecolaTech 2024](https://web.dio.me/track/decola-tech-avanade-net-developer)
+[Bootcamp LocalizaLabs .NET Developer #2](https://web.dio.me/track/localiza-net-developer-2)
+[Bootcamp GFT Start #4 .NET](https://web.dio.me/track/gft-start-4-net)
+[Bootcamp Decola Tech 2a edição](https://www.dio.me/users/jane_tecnicavocal)
+[Bootcamp: Pottencial .NET Developer](https://web.dio.me/track/pottencial-net-developer)
+[Bootcamp LocalizaLabs .NET Developer #2](https://web.dio.me/track/localiza-net-developer-2)
 
 
 # Esse repositório está em constante atualização.
