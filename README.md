@@ -7,7 +7,7 @@ Para conhecer um pouco mais sobre essa plataforma que vem mudando a vida de cent
  - Formação .NET com a Linguagem C#
  - Desafios de Código utilizando a linguagem C# e Framework da Plataforma .NET
 
-## Aqui vocês encontram as listas de Bootcamps que já realizei com links direcionados à ele:
+## Aqui vocês encontram as listas de Bootcamps já realizados e links direcionados à cada um:
 
  - [Bootcamp Avanaded - DecolaTech 2024](https://web.dio.me/track/decola-tech-avanade-net-developer)
  - [Bootcamp LocalizaLabs .NET Developer #2](https://web.dio.me/track/localiza-net-developer-2)
