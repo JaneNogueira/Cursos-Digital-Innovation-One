@@ -1,0 +1,15 @@
+E:\Projetos GitHub\DesafiosDeCodigo\QuadradoDePares\DesafioDePares\obj\Debug\net6.0\DesafioDePares.csproj.AssemblyReference.cache
+E:\Projetos GitHub\DesafiosDeCodigo\QuadradoDePares\DesafioDePares\obj\Debug\net6.0\DesafioDePares.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projetos GitHub\DesafiosDeCodigo\QuadradoDePares\DesafioDePares\obj\Debug\net6.0\DesafioDePares.AssemblyInfoInputs.cache
+E:\Projetos GitHub\DesafiosDeCodigo\QuadradoDePares\DesafioDePares\obj\Debug\net6.0\DesafioDePares.AssemblyInfo.cs
+E:\Projetos GitHub\DesafiosDeCodigo\QuadradoDePares\DesafioDePares\obj\Debug\net6.0\DesafioDePares.csproj.CoreCompileInputs.cache
+E:\Projetos GitHub\DesafiosDeCodigo\QuadradoDePares\DesafioDePares\bin\Debug\net6.0\DesafioDePares.exe
+E:\Projetos GitHub\DesafiosDeCodigo\QuadradoDePares\DesafioDePares\bin\Debug\net6.0\DesafioDePares.deps.json
+E:\Projetos GitHub\DesafiosDeCodigo\QuadradoDePares\DesafioDePares\bin\Debug\net6.0\DesafioDePares.runtimeconfig.json
+E:\Projetos GitHub\DesafiosDeCodigo\QuadradoDePares\DesafioDePares\bin\Debug\net6.0\DesafioDePares.dll
+E:\Projetos GitHub\DesafiosDeCodigo\QuadradoDePares\DesafioDePares\bin\Debug\net6.0\ref\DesafioDePares.dll
+E:\Projetos GitHub\DesafiosDeCodigo\QuadradoDePares\DesafioDePares\bin\Debug\net6.0\DesafioDePares.pdb
+E:\Projetos GitHub\DesafiosDeCodigo\QuadradoDePares\DesafioDePares\obj\Debug\net6.0\DesafioDePares.dll
+E:\Projetos GitHub\DesafiosDeCodigo\QuadradoDePares\DesafioDePares\obj\Debug\net6.0\ref\DesafioDePares.dll
+E:\Projetos GitHub\DesafiosDeCodigo\QuadradoDePares\DesafioDePares\obj\Debug\net6.0\DesafioDePares.pdb
+E:\Projetos GitHub\DesafiosDeCodigo\QuadradoDePares\DesafioDePares\obj\Debug\net6.0\DesafioDePares.genruntimeconfig.cache

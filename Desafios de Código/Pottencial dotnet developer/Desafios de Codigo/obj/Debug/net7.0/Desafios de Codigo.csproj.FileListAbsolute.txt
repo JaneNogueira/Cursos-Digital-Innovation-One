@@ -1,0 +1,14 @@
+D:\Nova pasta\Cursos-Digital-Innovation-One\Pottencial dotnet developer\Desafios de Codigo\bin\Debug\net7.0\Desafios de Codigo.exe
+D:\Nova pasta\Cursos-Digital-Innovation-One\Pottencial dotnet developer\Desafios de Codigo\bin\Debug\net7.0\Desafios de Codigo.deps.json
+D:\Nova pasta\Cursos-Digital-Innovation-One\Pottencial dotnet developer\Desafios de Codigo\bin\Debug\net7.0\Desafios de Codigo.runtimeconfig.json
+D:\Nova pasta\Cursos-Digital-Innovation-One\Pottencial dotnet developer\Desafios de Codigo\bin\Debug\net7.0\Desafios de Codigo.dll
+D:\Nova pasta\Cursos-Digital-Innovation-One\Pottencial dotnet developer\Desafios de Codigo\bin\Debug\net7.0\Desafios de Codigo.pdb
+D:\Nova pasta\Cursos-Digital-Innovation-One\Pottencial dotnet developer\Desafios de Codigo\obj\Debug\net7.0\Desafios de Codigo.GeneratedMSBuildEditorConfig.editorconfig
+D:\Nova pasta\Cursos-Digital-Innovation-One\Pottencial dotnet developer\Desafios de Codigo\obj\Debug\net7.0\Desafios de Codigo.AssemblyInfoInputs.cache
+D:\Nova pasta\Cursos-Digital-Innovation-One\Pottencial dotnet developer\Desafios de Codigo\obj\Debug\net7.0\Desafios de Codigo.AssemblyInfo.cs
+D:\Nova pasta\Cursos-Digital-Innovation-One\Pottencial dotnet developer\Desafios de Codigo\obj\Debug\net7.0\Desafios de Codigo.csproj.CoreCompileInputs.cache
+D:\Nova pasta\Cursos-Digital-Innovation-One\Pottencial dotnet developer\Desafios de Codigo\obj\Debug\net7.0\Desafios de Codigo.dll
+D:\Nova pasta\Cursos-Digital-Innovation-One\Pottencial dotnet developer\Desafios de Codigo\obj\Debug\net7.0\refint\Desafios de Codigo.dll
+D:\Nova pasta\Cursos-Digital-Innovation-One\Pottencial dotnet developer\Desafios de Codigo\obj\Debug\net7.0\Desafios de Codigo.pdb
+D:\Nova pasta\Cursos-Digital-Innovation-One\Pottencial dotnet developer\Desafios de Codigo\obj\Debug\net7.0\Desafios de Codigo.genruntimeconfig.cache
+D:\Nova pasta\Cursos-Digital-Innovation-One\Pottencial dotnet developer\Desafios de Codigo\obj\Debug\net7.0\ref\Desafios de Codigo.dll

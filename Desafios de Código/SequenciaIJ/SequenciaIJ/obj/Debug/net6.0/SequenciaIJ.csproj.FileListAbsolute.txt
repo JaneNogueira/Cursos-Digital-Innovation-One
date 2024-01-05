@@ -1,0 +1,15 @@
+E:\Projetos GitHub\DesafiosDeCodigo\SequenciaIJ\SequenciaIJ\bin\Debug\net6.0\SequenciaIJ.exe
+E:\Projetos GitHub\DesafiosDeCodigo\SequenciaIJ\SequenciaIJ\bin\Debug\net6.0\SequenciaIJ.deps.json
+E:\Projetos GitHub\DesafiosDeCodigo\SequenciaIJ\SequenciaIJ\bin\Debug\net6.0\SequenciaIJ.runtimeconfig.json
+E:\Projetos GitHub\DesafiosDeCodigo\SequenciaIJ\SequenciaIJ\bin\Debug\net6.0\SequenciaIJ.dll
+E:\Projetos GitHub\DesafiosDeCodigo\SequenciaIJ\SequenciaIJ\bin\Debug\net6.0\ref\SequenciaIJ.dll
+E:\Projetos GitHub\DesafiosDeCodigo\SequenciaIJ\SequenciaIJ\bin\Debug\net6.0\SequenciaIJ.pdb
+E:\Projetos GitHub\DesafiosDeCodigo\SequenciaIJ\SequenciaIJ\obj\Debug\net6.0\SequenciaIJ.csproj.AssemblyReference.cache
+E:\Projetos GitHub\DesafiosDeCodigo\SequenciaIJ\SequenciaIJ\obj\Debug\net6.0\SequenciaIJ.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projetos GitHub\DesafiosDeCodigo\SequenciaIJ\SequenciaIJ\obj\Debug\net6.0\SequenciaIJ.AssemblyInfoInputs.cache
+E:\Projetos GitHub\DesafiosDeCodigo\SequenciaIJ\SequenciaIJ\obj\Debug\net6.0\SequenciaIJ.AssemblyInfo.cs
+E:\Projetos GitHub\DesafiosDeCodigo\SequenciaIJ\SequenciaIJ\obj\Debug\net6.0\SequenciaIJ.csproj.CoreCompileInputs.cache
+E:\Projetos GitHub\DesafiosDeCodigo\SequenciaIJ\SequenciaIJ\obj\Debug\net6.0\SequenciaIJ.dll
+E:\Projetos GitHub\DesafiosDeCodigo\SequenciaIJ\SequenciaIJ\obj\Debug\net6.0\ref\SequenciaIJ.dll
+E:\Projetos GitHub\DesafiosDeCodigo\SequenciaIJ\SequenciaIJ\obj\Debug\net6.0\SequenciaIJ.pdb
+E:\Projetos GitHub\DesafiosDeCodigo\SequenciaIJ\SequenciaIJ\obj\Debug\net6.0\SequenciaIJ.genruntimeconfig.cache
